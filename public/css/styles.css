@@ -1,0 +1,6 @@
+/* our custom css will go here
+-the file need to be imported to the _app.js file */
+.logo{
+   font-weight: 800;
+   font-size: 26px;
+}
